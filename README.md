@@ -8,6 +8,12 @@ CoWin Slot Booking Trial
 !pip install -U selenium
 ```
 
+# Download the ChromeDriver and change the Path as per your own OS
+#### Code Snippet in the file to set :
+```sh
+driver_path = './chromedriver_linux64 _89/chromedriver' # LINE NUMBER 43
+```
+
 ## STEPS FOR Execution
 
 ### 1) Enter all the Values in the parameters.json file provided 
