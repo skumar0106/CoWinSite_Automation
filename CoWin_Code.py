@@ -1,6 +1,5 @@
 ###################################################
 # Code For Cowin Slot Scheduling
-# Developed By :: Sumeet.kumar@t-systems.com
 # Parameters :: 
 # 1) Name of the Registered Candiate as displayed in the COwin Site
 # 2) Phone Number 
